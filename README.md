@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-With-Python-and-Numpy-Pandas-Seaborn-Matplotlib-
+# EDA-With-Python-and-Numpy-Pandas-Seaborn-Matplotlib-
 
 This repository contains my implementation of the Coursera guided project  
 **“Exploratory Data Analysis With Python and Pandas”**.
@@ -107,7 +107,7 @@ Weak relationship between Rating and revenue metrics.
 
 The image below summarises several key EDA outputs:
 
-https://yocddozasimw.labs.coursera.org/files/logo.png?_xsrf=2%7C6de779d5%7C31bf7e96160acfbc0d3818a93d2e6f22%7C1761826112
+<img width="1137" height="556" alt="logo" src="https://github.com/user-attachments/assets/1ace1b6f-f722-48dd-9c1b-5450666cfa13" />
 
 **Top-left: Distribution of customer ratings with KDE curve.**
 The dashed red line marks the mean rating, and the green dashed lines
